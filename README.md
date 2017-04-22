@@ -68,7 +68,8 @@
         "url": "git+ssh://git@github.com/Josiah/gulp-cachebust.git"
     },
     "scripts": {},
-    "version": "0.0.6"
+    "version": "0.0.6",
+    "bin": {}
 }
 ```
 
